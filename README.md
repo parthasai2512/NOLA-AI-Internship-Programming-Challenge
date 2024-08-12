@@ -44,9 +44,9 @@ All the images which are used for validation in the code are in the folder of "N
      
      datetime-          For date and time operations.
      
-     matplotlib.pyplot- for displaying the images which are uploaded(this process is for validation.
+     matplotlib.pyplot- For displaying the images which are uploaded(this process is for validation.
                         purpose only and completely optional).
-     PaddleOCR-         required package, for optical character recognition for extracting the information or 
+     PaddleOCR-         Required package, for optical character recognition for extracting the information or 
                         text from the uploaded images. 
 
 ## Run the code:
