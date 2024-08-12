@@ -82,7 +82,7 @@ iv. _handle_two_digit_year\
 The code is satisfying the requirements of NOLA-AI Internship Programming Challenge(Example output) and also I have tested the additional special cases as well which is satisfying the requirements of the programming challenge:
 
 ## 1. Challenge output: 
-Here the date and name are extracted from the image, here the name is annotated(1,2) so code logic is designed as to satisfy the requirements of the challenge.
+Here the date and name are extracted from the image, the name is annotated(1,2) so code logic is designed as to satisfy the requirements of the challenge.
    
 Run with: /content/drive/MyDrive/NolaImages/img1.png\
 	&nbsp;&nbsp;&nbsp;&nbsp; John Sample\
@@ -90,7 +90,7 @@ Run with: /content/drive/MyDrive/NolaImages/img1.png\
 	&nbsp;&nbsp;&nbsp;&nbsp; Accepted
  
 ## 2. Challenge output: 
-Here the date and name are extracted from the image, here the name is annotated with special character(",") hence the code logic for name extraction using regular expressions so as to staisfy the requirements.
+Here the date and name are extracted from the image, the name is annotated with special character(",") hence the code logic for name extraction using regular expressions so as to staisfy the requirements.
  
 Run with: /content/drive/MyDrive/NolaImages/img2.jpg\
 	&nbsp;&nbsp;&nbsp;&nbsp;License Sample\
@@ -121,7 +121,7 @@ Run with: /content/drive/MyDrive/NolaImages/dl_993.png\
 	&nbsp;&nbsp;&nbsp;&nbsp;Accepted
  
 ## 4. Challenge output: 
-The date and name are extracted from the image, and this is special case of the name variable where there is no annotation by any kind which is referring to the one of the example output(Run with img2.jpg (may be harder to extract name, so any piece of a name works here) instructions, which are used to satisfy the challenge requirements.
+The date and name are extracted from the image, and this is special case of the name variable where there is no annotation by any kind which is referring to the one of the example output(Run with img2.jpg (may be harder to extract name, so any piece of a name works here)) instructions, which are used to satisfy the challenge requirements.
    
 Run with: /content/drive/MyDrive/NolaImages/dl_13.jpeg\
 	&nbsp;&nbsp;&nbsp;&nbsp;License Sample\
@@ -129,7 +129,7 @@ Run with: /content/drive/MyDrive/NolaImages/dl_13.jpeg\
 	&nbsp;&nbsp;&nbsp;&nbsp;Accepted
 
 ## 5. Challenge output: 
-Date and name are extracted from the image of my driver's licenses, we can say that this is satisfying the latest driver's licenses format as well here the name is annotated as "1." and "2" for first name and last name.
+Date and name are extracted from the image of my driver's licenses, we can say that this is satisfying the latest driver's licenses format as well here the name is annotated as "1." and "2." for first name and last name.
    
 Run with: /content/drive/MyDrive/NolaImages/my_dl.jpg\
   &nbsp;&nbsp;&nbsp;&nbsp;Munivenkataparthasai Madallapale\
